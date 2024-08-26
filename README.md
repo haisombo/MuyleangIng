@@ -4,7 +4,7 @@ Hello I'm  who am Me.In my free time, I build software project and research new 
 <a href=#><img src="q.svg"></a>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/begoingto/count.svg" />
+  <img src="file:///Users/Sombo/Desktop/q.svgg" />
 </p>
 
 # 💻 Tech Stack:
